@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/计算机系统概论ICS/Labs/Lab06/main.cpp
+cstdio
+-
+cstdlib
+-
+ctime
+-
+termios.h
+-
+sys/ioctl.h
+-
+

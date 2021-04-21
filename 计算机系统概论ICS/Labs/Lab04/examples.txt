@@ -1,0 +1,47 @@
+ROW A: ooo
+ROW B: ooooo
+ROW C: oooooooo
+Player 1, choose a row and number of rocks: B2
+
+ROW A: ooo
+ROW B: ooo
+ROW C: oooooooo
+Player 2, choose a row and number of rocks: A1
+
+ROW A: oo
+ROW B: ooo
+ROW C: oooooooo
+Player 1, choose a row and number of rocks: C6
+
+ROW A: oo
+ROW B: ooo
+ROW C: oo
+Player 2, choose a row and number of rocks: G1
+Invalid move. Try again.
+Player 2, choose a row and number of rocks: B3
+
+ROW A: oo
+ROW B: 
+ROW C: oo
+Player 1, choose a row and number of rocks: A3
+Invalid move. Try again.
+Player 1, choose a row and number of rocks: C2
+
+ROW A: oo
+ROW B: 
+ROW C: 
+Player 2, choose a row and number of rocks: A1
+
+ROW A: o
+ROW B: 
+ROW C: 
+Player 1, choose a row and number of rocks: A*
+Invalid move. Try again.
+Player 1, choose a row and number of rocks: &4
+Invalid move. Try again.
+Player 1, choose a row and number of rocks: A1
+
+Player 2 Wins.
+
+
+----- Halting the processor ----- 
