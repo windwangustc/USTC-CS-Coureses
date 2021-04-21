@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/C++/Exp1_Calculator/main.cpp
+std_lib_facilities.h
+/Users/chen/Desktop/C++/Exp1_Calculator/std_lib_facilities.h
+
+/Users/chen/Desktop/C++/Exp1_Calculator/std_lib_facilities.h
+iostream
+-
+fstream
+-
+sstream
+-
+cmath
+-
+cstdlib
+-
+string
+-
+list
+-
+vector
+-
+algorithm
+-
+stdexcept
+-
+hash_map
+-
+ext/hash_map
+-
+iomanip
+-
+

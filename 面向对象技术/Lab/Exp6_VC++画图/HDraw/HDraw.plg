@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: HDraw - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/HDraw.res" /d "_DEBUG" /d "_AFXDLL" "D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HDraw.rc"" 
+Creating temporary file "C:\Users\符海春\AppData\Local\Temp\RSP5498.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/HDraw.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HColorBar.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HDraw.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HDrawDoc.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HDrawPView.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HDrawView.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HStroke.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HStrokeEditDlg.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\HStrokeTextDlg.cpp"
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\MainFrm.cpp"
+]
+Creating command line "cl.exe @"C:\Users\符海春\AppData\Local\Temp\RSP5498.tmp"" 
+Creating temporary file "C:\Users\符海春\AppData\Local\Temp\RSP5499.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/HDraw.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\课设的所有\07课程设计\codefans.net\VC画图源代码文档在线提供\HDraw\StdAfx.cpp"
+]
+Creating command line "cl.exe @"C:\Users\符海春\AppData\Local\Temp\RSP5499.tmp"" 
+Creating temporary file "C:\Users\符海春\AppData\Local\Temp\RSP549A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/HDraw.pdb" /debug /machine:I386 /out:"Debug/HDraw.exe" /pdbtype:sept 
+".\Debug\HColorBar.obj"
+".\Debug\HDraw.obj"
+".\Debug\HDrawDoc.obj"
+".\Debug\HDrawPView.obj"
+".\Debug\HDrawView.obj"
+".\Debug\HStroke.obj"
+".\Debug\HStrokeEditDlg.obj"
+".\Debug\HStrokeTextDlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\HDraw.res"
+]
+Creating command line "link.exe @"C:\Users\符海春\AppData\Local\Temp\RSP549A.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+HColorBar.cpp
+HDraw.cpp
+HDrawDoc.cpp
+HDrawPView.cpp
+HDrawView.cpp
+HStroke.cpp
+HStrokeEditDlg.cpp
+HStrokeTextDlg.cpp
+MainFrm.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+HDraw.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

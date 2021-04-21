@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/C++/Exp2/head1.h
+
+/Users/chen/Desktop/C++/Exp2/head2.h
+
+/Users/chen/Desktop/C++/Exp2/main.cpp
+iostream
+-
+head1.h
+/Users/chen/Desktop/C++/Exp2/head1.h
+head2.h
+/Users/chen/Desktop/C++/Exp2/head2.h
+
