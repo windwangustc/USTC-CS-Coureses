@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/DataStructure/Exp6_huffman编解码器/Exp6_HuffmanTree三叉链表实现/htree.cpp
+cstdio
+-
+cstdlib
+-
+

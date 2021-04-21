@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/DataStructure/Lab/Exp8_Graph_AdvancedADt/main.cpp
+cstdio
+-
+cstdlib
+-
+queue
+-
+stack
+-
+savetree.h
+/Users/chen/Desktop/DataStructure/Lab/Exp8_Graph_AdvancedADt/savetree.h
+
+/Users/chen/Desktop/DataStructure/Lab/Exp8_Graph_AdvancedADt/savetree.h
+stdlib.h
+-
+stdio.h
+-
+

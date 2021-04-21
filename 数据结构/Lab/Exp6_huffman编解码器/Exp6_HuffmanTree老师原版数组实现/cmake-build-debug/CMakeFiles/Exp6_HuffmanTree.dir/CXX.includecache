@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/DataStructure/Exp6_HuffmanTree/htree.cpp
+stdio.h
+-
+stdlib.h
+-
+showTree.h
+/Users/chen/Desktop/DataStructure/Exp6_HuffmanTree/showTree.h
+
+/Users/chen/Desktop/DataStructure/Exp6_HuffmanTree/showTree.h
+stdlib.h
+-
+stdio.h
+-
+

@@ -1,0 +1,14 @@
+@startuml 链表p中删除节点(删除第i个位置的元素e)
+note right:链表p中删除节点(删除第i个位置的元素e)
+(*)-->"寻找第i-1个结点p"
+-->"i小于1或i大于表长+1？"
+-->[yes]"return Error"
+"i小于1或i大于表长+1？" -->[no] "用temp暂存p的后继(要删除的节点)"
+-->"e=temp->data;"
+-->"p->next=p->next->next"
+-->"free(temp)" 
+note right:"删除并释放节点"
+-->"return OK"
+--> (*)   
+ 
+@enduml

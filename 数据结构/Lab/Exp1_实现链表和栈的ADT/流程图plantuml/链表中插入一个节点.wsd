@@ -1,0 +1,16 @@
+@startuml 链表p中插入节点(第i个位置前插入元素e)
+note right:链表p中插入节点(第i个位置前插入元素e)
+(*)-->"寻找第i-1个结点"
+-->"i小于1或i大于表长+1？"
+-->[yes]"return Error"
+"i小于1或i大于表长+1？" -->[no] "malloc新结点s"
+--> "成功？"
+-->[yes] "s->data=e"
+-->"s->next=p->next"
+-->"p->next=s"
+-->"return OK"
+--> (*)   
+"成功？"-->[no] "分配空间失败"
+-->"exit(0)"
+ 
+@enduml

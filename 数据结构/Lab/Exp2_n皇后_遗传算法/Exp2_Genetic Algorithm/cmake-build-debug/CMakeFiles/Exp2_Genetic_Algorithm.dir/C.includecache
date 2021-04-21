@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/DataStructure/Exp2_Genetic Algorithm/main.c
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+

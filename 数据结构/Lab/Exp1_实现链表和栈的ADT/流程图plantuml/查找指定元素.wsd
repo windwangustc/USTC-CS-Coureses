@@ -1,0 +1,16 @@
+@startuml 链表中p查找给定元素
+note right:链表中p查找给定元素
+(*) --> "int k=1表示位置" 
+    --> "p=p->next"
+
+    --> "p存在?"
+    -left->[yes]"p->data是否等于给定的元素？"
+    -down->[yes] "printf(给定的元素在链表第k的位置)"
+    --> "return p"
+    --> (*)
+    "p->data是否等于给定的元素？" -up->[no] "k=k+1"
+    -right->"p=p->next"
+    "p存在?“ -->[no] "printf不存在这个元素"
+    -->"return NULL"
+    --> (*)
+@enduml

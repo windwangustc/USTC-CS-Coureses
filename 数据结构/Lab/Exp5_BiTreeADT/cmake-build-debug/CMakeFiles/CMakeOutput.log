@@ -1,0 +1,14 @@
+The system is: Darwin - 20.3.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is AppleClang, found in "/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp5_BiTreeADT/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.o"
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/LinkList_ADT.c
+LinkList_ADT.h
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/LinkList_ADT.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/LinkList_ADT.h
+
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/main.c
+LinkList_ADT.h
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/LinkList_ADT.h
+stackADT.h
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/stackADT.h
+
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/stackADT.c
+stackADT.h
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/stackADT.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/chen/Desktop/计算机科学与技术/数据结构/Lab/Exp1_实现链表和栈的ADT/stackADT.h
+

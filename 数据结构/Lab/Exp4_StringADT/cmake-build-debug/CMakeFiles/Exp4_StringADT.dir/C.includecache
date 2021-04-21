@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/DataStructure/Exp4_StringADT/HeapStringADT.h
+
+/Users/chen/Desktop/DataStructure/Exp4_StringADT/main.c
+stdio.h
+-
+HeapStringADT.h
+/Users/chen/Desktop/DataStructure/Exp4_StringADT/HeapStringADT.h
+

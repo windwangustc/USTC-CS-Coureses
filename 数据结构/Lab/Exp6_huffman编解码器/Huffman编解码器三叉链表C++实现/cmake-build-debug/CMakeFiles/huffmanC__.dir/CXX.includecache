@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chen/Desktop/DataStructure/Huffman三叉链表C++实现/HfmTree.cpp
+HfmTree.h
+/Users/chen/Desktop/DataStructure/Huffman三叉链表C++实现/HfmTree.h
+
+/Users/chen/Desktop/DataStructure/Huffman三叉链表C++实现/HfmTree.h
+SortedList.h
+/Users/chen/Desktop/DataStructure/Huffman三叉链表C++实现/SortedList.h
+string
+-
+
+/Users/chen/Desktop/DataStructure/Huffman三叉链表C++实现/SortedList.h
+string
+-
+iostream
+-
+
