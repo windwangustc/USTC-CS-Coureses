@@ -1,4 +1,3 @@
-
 图论/图论教材-2020秋.pdf
 计算机网络/教材与课后习题答案/计算机网络  自顶向下方法.原书第6版.pdf
 代数结构/参考书-离散数学习题解答.pdf
@@ -7,5 +6,5 @@
 面向科学问题求解的编程实践/教材参考书/John V. Guttag-Introduction to Computation and Programming Using Python, Revided & Expanded-The MIT Press (2013) (1).pdf
 面向科学问题求解的编程实践/教材参考书/Python编程导论.pdf
 面向科学问题求解的编程实践/教材参考书/程序设计导论-Python语言实践.pdf
-*.pdf
-*.ppsx
+计算机系统概论ICS/*.ppsx
+Operate System/PPT/*.pdf
