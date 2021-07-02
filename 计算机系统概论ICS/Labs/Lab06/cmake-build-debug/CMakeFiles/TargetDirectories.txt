@@ -1,3 +1,0 @@
-/Users/chen/Desktop/计算机系统概论ICS/Labs/Lab06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/chen/Desktop/计算机系统概论ICS/Labs/Lab06/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/chen/Desktop/计算机系统概论ICS/Labs/Lab06/cmake-build-debug/CMakeFiles/Lab6.dir
